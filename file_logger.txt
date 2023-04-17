@@ -1,1 +1,10 @@
 File Operation Logger write: test.txt
+write: C:\AutoGPT\Auto-GPT-0.2.1\auto_gpt_workspace\README.md
+write: hello_world.py
+append: hello_world.py
+append: hello_world.py
+append: C:/AutoGPT/Auto-GPT-0.2.1/auto_gpt_workspace/hello_world.py
+write: C:\AutoGPT\Auto-GPT-0.2.1\auto_gpt_workspace\hello_test.py
+append: C:\AutoGPT\Auto-GPT-0.2.1\auto_gpt_workspace\auto1\hello_test.py
+write: C:/AutoGPT/Auto-GPT-0.2.1/auto_gpt_workspace/auto1/hello_test.py
+write: C:\AutoGPT\Auto-GPT-0.2.1\auto_gpt_workspace\new_program.py
